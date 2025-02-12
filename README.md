@@ -20,8 +20,6 @@ This is a Simple flutter recorder/player application
 ## recorder test audio file:
 
 https://github.com/user-attachments/assets/437b0bb7-5e01-4cae-ada3-aa9bbae04a20  
-[recorder_test.webm](https://github.com/user-attachments/assets/946104dd-77b3-4d6a-8039-ce279c9ffb63)  
-https://github.com/user-attachments/assets/68a442a4-410d-4606-a9ce-84d601420322  
 
 
 
